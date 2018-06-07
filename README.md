@@ -3,5 +3,6 @@
 edited once
 
 edited twice
+編集のこれまでの履歴をとれる
 
-編集の履歴がとれる
+追加したライン
